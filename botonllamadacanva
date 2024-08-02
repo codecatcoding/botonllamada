@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón de Llamada</title>
+    <style>
+        .call-button {
+            display: block;
+            margin: 50px auto;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="call-button">
+        <a href="tel:+34638610330">Llamar</a>
+    </div>
+</body>
+</html>
